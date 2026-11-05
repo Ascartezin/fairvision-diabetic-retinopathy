@@ -218,3 +218,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =====================================================
+# regras específicas desse projeto
+# =====================================================
+
+# --- Dados: NÃO versionar (licença CC BY-NC-ND 4.0) ---
+data/raw/*
+!data/raw/.gitkeep
+*.jpg
+*.jpeg
+*.png
+*.npz
+*.npy
+
+# Figuras do artigo (geradas por nós; sem imagens do dataset)
+!results/figures/*.png
+
+# --- Modelos pesados ---
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# --- Ambiente e credenciais ---
+.env
+*.token
