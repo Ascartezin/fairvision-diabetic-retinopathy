@@ -1,0 +1,10 @@
+use,race,n,positivos,negativos,prevalencia_%
+training,asian,452,41,411,9.07
+training,black,846,119,727,14.07
+training,white,4702,405,4297,8.61
+validation,asian,79,2,77,2.53
+validation,black,159,21,138,13.21
+validation,white,762,60,702,7.87
+test,asian,233,16,217,6.87
+test,black,452,59,393,13.05
+test,white,2315,186,2129,8.03

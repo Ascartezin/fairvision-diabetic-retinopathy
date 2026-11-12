@@ -1,0 +1,10 @@
+use,language,n,positivos,negativos,prevalencia_%
+training,english,5456,485,4971,8.89
+training,other languages,426,57,369,13.38
+training,spanish,118,23,95,19.49
+validation,english,914,77,837,8.42
+validation,other languages,64,5,59,7.81
+validation,spanish,22,1,21,4.55
+test,english,2722,232,2490,8.52
+test,other languages,215,22,193,10.23
+test,spanish,63,7,56,11.11

@@ -1,0 +1,7 @@
+use,ethnicity,n,positivos,negativos,prevalencia_%
+training,hispanic,228,36,192,15.79
+training,non-hispanic,5772,529,5243,9.16
+validation,hispanic,50,4,46,8.0
+validation,non-hispanic,950,79,871,8.32
+test,hispanic,113,15,98,13.27
+test,non-hispanic,2887,246,2641,8.52

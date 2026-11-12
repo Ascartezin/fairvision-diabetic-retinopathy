@@ -1,0 +1,7 @@
+use,gender,n,positivos,negativos,prevalencia_%
+training,female,3328,255,3073,7.66
+training,male,2672,310,2362,11.6
+validation,female,560,42,518,7.5
+validation,male,440,41,399,9.32
+test,female,1665,118,1547,7.09
+test,male,1335,143,1192,10.71
